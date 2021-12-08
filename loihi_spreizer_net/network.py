@@ -1,7 +1,8 @@
-# Copyright 2021 Leo Hiselius
+# Original code Copyright 2021 Leo Hiselius
+# Modified code Copyright 2021 Andrew Lehr
 # The MIT License
 
-from brian2_loihi_package import *
+from brian2_loihi import *
 import numpy as np
 from scipy import interpolate
 import warnings
